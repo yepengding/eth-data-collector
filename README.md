@@ -20,6 +20,10 @@ npm install
 npm run start
 ```
 
+## API
+
+- Get current gas price: `/gas/current/price`
+
 ---
 
 # References
