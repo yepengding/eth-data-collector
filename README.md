@@ -2,7 +2,7 @@
 
 Simple Ethereum data collector.
 
-- [ ] Gas data
+- [x] Gas data
 
 ## Quickstart
 
@@ -22,6 +22,7 @@ npm run start
 
 ## API
 
+- Default port: 3000
 - Get current gas price: `/gas/current/price`
 
 ---
