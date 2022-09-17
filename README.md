@@ -1,8 +1,9 @@
 # Ethereum Data Collector
 
-Simple Ethereum data collector.
+Simple Ethereum data collector based on Express.
 
 - [x] Gas data
+- [x] Block data
 
 ## Quickstart
 
